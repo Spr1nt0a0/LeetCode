@@ -5,3 +5,4 @@
 ##### 4.[四数之和](https://github.com/Spr1nt0a0/LeetCode/tree/master/%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C)
 ##### 5.[二进制数相加](https://github.com/Spr1nt0a0/LeetCode/tree/master/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E7%9B%B8%E5%8A%A0)
 ##### 6.[两链表对应数相加](https://github.com/Spr1nt0a0/LeetCode/tree/master/%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%9B%B8%E5%8A%A0)
+##### 7.[anagrams](https://github.com/Spr1nt0a0/LeetCode/tree/master/anagrams)
